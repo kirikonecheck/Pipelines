@@ -12,4 +12,4 @@
 
 ## [PHP-MySQL](https://github.com/kirikonecheck/php-mysql-pipeline)
 
-## [C++}(https://github.com/kirikonecheck/C--pipeline)
+## [C++](https://github.com/kirikonecheck/C--pipeline)
